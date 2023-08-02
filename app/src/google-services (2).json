@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784345751982",
+    "firebase_url": "https://kodego-firebase-8b50d-default-rtdb.firebaseio.com",
+    "project_id": "kodego-firebase-8b50d",
+    "storage_bucket": "kodego-firebase-8b50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784345751982:android:edf26cfd67294a31f0283f",
+        "android_client_info": {
+          "package_name": "com.example.crud_firestoreactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784345751982-9eie674k4g62l8jobelhvo6nk477gdg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_firestoreactivity",
+            "certificate_hash": "705413ef8e164cd3372daa8802d3c1ff3b70a2f7"
+          }
+        },
+        {
+          "client_id": "784345751982-7ba9u9vc2q5ac0a15dhn7f7tc83oiced.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBS-rYwCuAGr1xXyS1Tho7OI0FTDmpFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784345751982-0rsucls70cshi7s6hul0qdejapafp67u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
